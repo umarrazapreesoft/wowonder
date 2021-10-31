@@ -1,0 +1,8 @@
+{
+    "sql_db_host": "localhost",
+    "sql_db_user": "root",
+    "sql_db_pass": "",
+    "sql_db_name": "vidcqjei_staging.vidcake",
+    "site_url": "http://localhost/personal/wowonder",
+    "purchase_code": "67087c93-c982-445d-b405-af0fd4ed24ca"
+}
